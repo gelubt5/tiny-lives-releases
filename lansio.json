@@ -1,0 +1,19 @@
+{
+ "title": "OpenRouter Drops Three AI Providers After Canary Test Exposes Prompt Leaks",
+ "yt_title": "OpenRouter Drops 3 AI Providers After Canary Test Exposes Prompt Leaks",
+ "yt_description": "Security firm Dragos seeded about two million AI prompts with secret links and fake cloud keys, and the canaries sang: data from at least three AI providers was exposed and planted keys were stolen. OpenRouter has now off-boarded three inference providers and pulled 125 endpoints from its Zero Data Retention list. If you ever pasted secrets into a prompt, rotate them today.\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- Unite.AI: https://www.unite.ai/openrouter-cuts-three-providers-after-ai-prompt-exposure-findings/\n- DEV Community: https://dev.to/axrisi/openrouter-zero-data-retention-what-the-dragos-canary-test-and-three-provider-notices-say-5abe\n- explainx.ai: https://www.explainx.ai/blog/dragos-hd-moore-two-million-canary-prompts-three-provider-breaches-zdr-ignored-ai-routers-2026\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#AI #CyberSecurity #OpenRouter #AINews #TechNews",
+ "yt_tags": [
+  "OpenRouter",
+  "Dragos",
+  "AI security",
+  "prompt leak",
+  "zero data retention",
+  "cybersecurity",
+  "AI news",
+  "tech news",
+  "Together AI",
+  "LLM privacy"
+ ],
+ "caption": "Your AI prompts may not have been as private as promised. 🔐 After Dragos planted two million booby-trapped prompts, OpenRouter kicked out three inference providers and pulled 125 endpoints from its Zero Data Retention list. Pasted keys into a prompt? Rotate them today! 🚨\n\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n\n#AI #CyberSecurity #OpenRouter #TechNews",
+ "script": "Welcome to IT News, AI News! Your AI chats may not have been as private as you thought. OpenRouter, a popular service that routes your prompts to hundreds of AI models, just kicked out three inference providers. It also pulled one hundred twenty-five endpoints off its Zero Data Retention list. That's the 'we never keep your data' promise. Why? Because security firm Dragos went fishing, with booby-trapped prompts. From July to November, researchers sent about two million prompts stuffed with secret links and fake cloud keys. Canaries! If anyone touched a canary, an alarm showed exactly which prompt, model and router had leaked it. And the canaries sang. Data from at least three AI providers was exposed, some of it marked zero retention. In late October, a couple hundred planted cloud keys were stolen, then used for tens of thousands of A W S calls. Busy thieves! One Chinese AI lab's systems opened the secret links from more than half of the test prompts, even many marked do not collect. Now providers are speaking up. Phala says an attacker took over an inference machine, so requests from October twenty-first to November eighth count as exposed. Together AI says an AI coding agent leaked a credential on public GitHub. Yes, the robot left the keys under the doormat. And Novita says a routing glitch sent some MiniMax requests straight to MiniMax itself, for more than five months. OpenRouter says it was not breached itself, and it will now test providers nonstop and check where requests really go. So, if you ever pasted passwords or API keys into a prompt, rotate them. Today! The lesson? The cheapest AI endpoint might come with a hidden guest list. Want every detail? Read the full story on itnewsainews dot xpigeon dot net. Byte out!"
+}
