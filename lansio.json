@@ -1,0 +1,19 @@
+{
+ "title": "OpenAI Reveals Its Secret AI Number and Wants Labs to Agree on Limits",
+ "yt_title": "OpenAI Reveals Its Secret AI Number and Wants Labs to Agree on Limits",
+ "yt_description": "OpenAI just published its internal perplexity curve, the \"surprise meter\" behind its models: GPT-3.5 at about 0.99, GPT-4 at about 0.91, new cyber and math powers below 0.8, and the next big jump expected between 0.68 and 0.7. Chief scientist Jakub Pachocki now proposes common limits that AI labs commit not to cross until monitoring catches up. Will rivals hit the brakes too?\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- OpenAI, \"Perplexity and Intelligence\": https://openai.com/index/perplexity-and-intelligence/\n- AP via The Daily Scrum News: https://www.thedailyscrumnews.com/openai-chief-scientist-proposes-industry-ai-limits-tied-to-perplexity/\n- ShiftDelete: https://shiftdelete.net/en/openai-pachocki-perplexity-ai-limits\n- AIWeekly: https://aiweekly.co/alerts/openais-pachocki-proposes-shared-perplexity-cap-for-labs\n- Finimize: https://finimize.com/content/openai-wants-ai-labs-to-set-shared-limits\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#AI #OpenAI #AISafety #TechNews #AINews",
+ "yt_tags": [
+  "OpenAI",
+  "Jakub Pachocki",
+  "perplexity",
+  "AI safety",
+  "AI limits",
+  "Sam Altman",
+  "frontier AI",
+  "AI news",
+  "tech news",
+  "IT News AI News"
+ ],
+ "caption": "OpenAI just revealed its secret progress number 📉 Chief scientist Jakub Pachocki published the internal perplexity curve (GPT-3.5 ≈ 0.99, GPT-4 ≈ 0.91, next big jump expected at 0.68–0.7) and asks AI labs to agree on common limits until monitoring catches up. Will rivals hit the brakes? 🤖\n\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n\n#AI #OpenAI #AISafety #TechNews",
+ "script": "Welcome to IT News, AI News! OpenAI just showed everyone a number it usually keeps secret. It's called perplexity. Think of it as a surprise meter: the lower it goes, the better a model predicts what comes next. OpenAI chief scientist Jakub Pachocki published the company's internal curve, measured on its own codebase data. GPT 3.5 sat around zero point nine nine. GPT 4 dropped to about zero point nine one. Below zero point eight, OpenAI says new powers showed up in cybersecurity and math. Around zero point seven six, one model started cracking open math problems. Not bad for a text predictor! And the next big jump? OpenAI expects it somewhere between zero point six eight and zero point seven. Pachocki's own words: I don't know what those capabilities will be. Honest, and a little spooky. So here's the big idea. Common limits, based on perplexity and other measurements, that labs commit to not crossing. Not forever. Just until tools for watching what models think catch up, like a successor to chain of thought monitors. The goal is to avoid AI improving itself with no human oversight. Yes, that's the movie plot nobody wants. He also admits the catches. Labs use different data, and perplexity doesn't measure real tasks. And according to the A P report, he didn't set exact stop lines or a way to enforce them. Sam Altman called it the most important thing OpenAI has published in a while. The real question: will rival labs share their own curves and hit the brakes too? Read the full story on itnewsainews dot xpigeon dot net. See you next time!"
+}
