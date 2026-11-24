@@ -1,0 +1,22 @@
+{
+ "title": "OpenAI and Cisco Launch Shirudo: An AI-Ready Shield for Unpatched Linux",
+ "yt_title": "OpenAI and Cisco Launch Shirudo: An AI-Ready Shield for Unpatched Linux",
+ "yt_description": "OpenAI and Cisco just released Shirudo, a free, open-source Linux tool that drops temporary \"shields\" in front of a security hole while the real patch is still being tested. It runs on eBPF, needs no restart, and in a controlled test a Codex-written shield blocked a Java4Shell exploit attempt on a running Elasticsearch server.\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- OpenAI: https://openai.com/index/introducing-shirudo/\n- Help Net Security: https://www.helpnetsecurity.com/2026/11/24/cisco-openai-shirudo/\n- The Register: https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795\n- BleepingComputer: https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#Shirudo #OpenAI #Cisco #Linux #Cybersecurity #eBPF #AINews",
+ "yt_tags": [
+  "Shirudo",
+  "OpenAI",
+  "Cisco",
+  "Linux security",
+  "eBPF",
+  "cybersecurity",
+  "Codex",
+  "open source",
+  "AI news",
+  "tech news",
+  "Isovalent",
+  "zero day"
+ ],
+ "caption": "OpenAI and Cisco just launched Shirudo 🛡️ A free, open-source Linux tool that blocks an exploit with a temporary \"shield\" while the real patch is still on its way, with no restart and no downtime. Humans still approve every shield before it goes live.\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n#Shirudo #Linux #Cybersecurity #AINews",
+ "script": "Welcome to IT News, AI News! Today, OpenAI and Cisco built a shield for Linux. Literally. It's called Shirudo. Shirudo is Japanese for shield, and it's a free, open-source tool that protects running Linux servers from attacks. Here's the problem. A security hole gets found, but testing and rolling out the real patch can take days, or even weeks. And during that time, your server is basically sitting there with the front door wide open. Not great. Shirudo fills that gap. It drops a small temporary shield in front of the one behavior a bug depends on. No restart, no downtime. The server keeps working while the bad move gets blocked. Under the hood it uses eBPF, a way to run tiny sandboxed programs right inside the Linux kernel. The twist? AI agents can help investigate the flaw and write the shield for you. In a controlled test, OpenAI's Codex wrote a shield for a running Elasticsearch server. It added one extra check to Java's Base64 decoder, and the Java4Shell exploit attempt? Rejected! And Elasticsearch never stopped running. No reboot, no drama. Don't worry, robots are not in charge. Humans test each shield and approve it before it goes live. Shields are cryptographically signed, and a TPM security chip records every shield that gets loaded or removed. Shirudo is based on Tetragon, from Cisco's Isovalent team, and the code is on GitHub under a BSD license. One catch: it's Linux only, and one security researcher warned that letting AI write kernel rules may not be a good idea. Still, a shield before the patch sounds pretty handy. Read the full story on itnewsainews dot xpigeon dot net!",
+ "article_path": "itnews/2026-11-24-1845-shirudo-linux-shield.json"
+}
