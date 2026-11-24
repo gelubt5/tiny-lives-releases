@@ -1,0 +1,20 @@
+{
+ "title": "Anthropic Launches Claude Ship: AI Agents That Review, Fix and Approve Your Code",
+ "yt_title": "Claude Ship: Anthropic's AI Agents Now Review, Fix and Approve Your Code",
+ "yt_description": "Anthropic just launched Claude Ship: three AI agents that work on GitHub pull requests. Code Review hunts bugs, PR Steward fixes failing checks and merge conflicts, and Claude Approvals approves routine changes under rules your team writes, while risky code still waits for humans and GitHub's branch rules decide what merges.\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- TechCrunch: https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n- Unite.AI: https://www.unite.ai/anthropic-launches-claude-ship-to-review-fix-and-approve-prs/\n- Claude product page: https://claude.com/product/claude-ship\n\nAnimated presenter, voice and visuals made with AI.\n\n#Anthropic #Claude #ClaudeShip #AI #GitHub #CodeReview #AINews #TechNews",
+ "yt_tags": [
+  "Anthropic",
+  "Claude",
+  "Claude Ship",
+  "AI code review",
+  "GitHub",
+  "pull requests",
+  "AI agents",
+  "AI news",
+  "tech news",
+  "developer tools"
+ ],
+ "caption": "Anthropic just launched Claude Ship: AI agents that review your pull requests, fix failing checks and even approve routine code changes on GitHub. 🤖 Risky code still waits for humans, and the agents can't merge on their own. 🔒\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n#AI #Anthropic #Claude #TechNews",
+ "script": "Welcome to IT News, AI News! Anthropic just launched Claude Ship, a team of AI agents that review, fix, and even approve your code! It plugs straight into GitHub pull requests. That's the moment a developer says: hey, please merge my changes. Agent number one is Code Review. It's ready for everyone on paid team plans, and it hunts bugs with several agents at once. Every finding says what's wrong, what triggers it, and how to fix it. Ranked as important, a nitpick, or a bug that was already there. Teams pick quick, standard, or deep reviews for each repo. Deep mode? Bring a snack. Agent number two is PR Steward, now in beta. It fixes failing tests, merge conflicts, and feedback from reviewers. After every push it explains what changed and how to roll it back. And if it gets too excited, just type: at Claude, stop! Agent number three is Claude Approvals. Teams write their rules in plain English, in a policy file inside the repo. Routine changes can be approved automatically. Risky ones, like sensitive code, still wait for the humans the policy names. And here's the safety net: Claude Ship cannot merge code by itself. GitHub's branch rules still decide. Anthropic says to start in observe mode, where Approvals posts its decision but approves nothing. Training wheels, basically. Inside Anthropic, the company reports that merged pull requests more than doubled from June to September. And the share of changes that had to be undone fell by more than forty percent. Fewer oops moments! It's for Claude Team and Enterprise plans, on GitHub only, and it's billed by usage, with monthly spending limits for admins. Anthropic also warns it can still miss bugs or security problems. So yes, humans, you still have a job! Read the full story on itnewsainews dot xpigeon dot net, and subscribe for more AI news!",
+ "article_path": "itnews/2026-11-24-1237-claude-ship.json"
+}
