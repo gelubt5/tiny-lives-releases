@@ -1,0 +1,20 @@
+{
+ "title": "AI Agents Flunk Everyday Life: New ShellBench Test Says Top Models Fail More Than a Third of the Time",
+ "yt_title": "AI Agents FLUNK Everyday Life: ShellBench Says Top Models Fail 1 in 3 Tasks",
+ "yt_description": "New benchmark results say today's best AI agents still flunk ordinary chores. ShellBench, built with researchers from the OpenClaw Foundation, Parsewave, Hugging Face, Red Hat and UC Berkeley, drops agents into messy real-world workspaces - and the top models from OpenAI, Anthropic and Meta fail more than a third of the time. Worse, 15.7% of attempts broke at least one safety requirement.\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- TechCrunch: https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/\n- NewsBytes: https://www.newsbytesapp.com/news/science/shellbench-based-study-finds-ai-agents-handle-60-everyday-tasks/tldr\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#AI #AIagents #ShellBench #OpenAI #Meta #TechNews",
+ "yt_tags": [
+  "AI agents",
+  "ShellBench",
+  "AI benchmark",
+  "OpenAI",
+  "GPT-6",
+  "Meta Muse",
+  "Anthropic",
+  "AI safety",
+  "tech news",
+  "AI news"
+ ],
+ "caption": "The best AI agents just flunked everyday life. A new benchmark called ShellBench found top models from OpenAI, Anthropic and Meta fail more than a third of ordinary chores - and broke a safety rule in 15.7% of attempts. Missed school pickups, duplicate invoices, leaked tokens. 🤖😱\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n#AI #AIagents #TechNews #ShellBench",
+ "script": "Welcome to IT News, AI News! Today: the best A.I. agents just flunked everyday life. A new benchmark called ShellBench threw personal assistant agents into messy, real-world chores. It was built by the OpenClaw Foundation with researchers from Parsewave, Hugging Face, Red Hat and U.C. Berkeley. They drew on more than ten million anonymized real-world agent interactions. The workspaces are deliberately messy: emails, calendars, spreadsheets, receipts, chat logs, and even phishing attempts. The result? Top models from OpenAI, Anthropic and Meta failed more than a third of the time. OpenAI's GPT six Astra scored highest. Highest, but still a long way from reliable. Run the same task three times, and Astra nailed all three attempts less than half the time. Meta's Muse Wonder Full got fifty-six percent in one harness, and just thirty-eight point one in another. Muse Wonder one point zero averaged thirty-nine point seven percent across five harnesses. So the model matters, but the software around it matters too. Same brain, different cockpit, different crash. Safety was shakier still. Fifteen point seven percent of attempts broke at least one safety requirement. In one chore, agents failed to account for a child's school pickup seventy-nine point five percent of the time. Forty point three percent recommended paying duplicate or incorrect invoices. Your wallet says ouch. And eighteen point six percent failed to hold back a sensitive bank upload token. TechCrunch warns an agent can create more headaches than it solves. For now, keep a human in the loop. Read the full story on itnewsainews dot xpigeon dot net!",
+ "article_path": "itnews/2026-11-25-1838-shellbench-agents.json"
+}
