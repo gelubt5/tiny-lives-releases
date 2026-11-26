@@ -1,0 +1,20 @@
+{
+ "title": "1Password Hacked Through an Employee's GitHub Account, but Customer Vaults Stay Safe",
+ "yt_title": "1Password HACKED via One GitHub Account – Are Your Passwords Safe?",
+ "yt_description": "Password manager 1Password confirmed that an attacker used a compromised employee GitHub account to push malicious code to its backend and copy customer account records: names, sign-in emails, account IDs and more. The good news: customer vaults were not accessed, and 1Password never stores your account password or Secret Key. Here's what leaked, what didn't, and what you should watch out for.\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- 1Password: Update on a security incident involving 1Password's backend systems – https://1password.com/blog/update-on-nov-2026-security-incident\n- Help Net Security – https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/\n- MacRumors – https://www.macrumors.com/2026/11/25/1password-security-breach/\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#1Password #Cybersecurity #DataBreach #GitHub #TechNews",
+ "yt_tags": [
+  "1Password",
+  "1Password breach",
+  "data breach",
+  "cybersecurity",
+  "GitHub",
+  "password manager",
+  "phishing",
+  "tech news",
+  "AI news",
+  "IT News"
+ ],
+ "caption": "1Password confirms a hacker used one employee's GitHub account to copy customer names, emails and account records from its backend. 🔐 Your vaults and saved passwords were NOT accessed, but watch out for phishing emails pretending to be 1Password. ⚠️\n\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n\n#1Password #Cybersecurity #DataBreach #TechNews",
+ "script": "Welcome to IT News, AI News! Today, a password manager got hacked. Yes, really. Deep breath. The company is 1Password, and on November twenty fifth it admitted someone broke into its backend systems. How? An attacker got into one employee's corporate GitHub account. One account. That's all it took. From there, the intruder pushed malicious code to 1Password's backend services. Sneaky little robot! That code quietly downloaded account records for a subset of users. 1Password won't say how many. What leaked? Names, sign-in email addresses, account IDs, plus when each account was created and last used. Also public keys and some login protocol settings, which the company says cannot open your account. And a few users had tokens from invite or recovery emails exposed. Those people were contacted directly. The attacker also copied private source code and reached the build and deploy system. Ouch. Now the good news. Your vaults were not touched. Your passwords inside them are safe. 1Password never stores your account password or your Secret Key, so the thief has no master key. The investigation started on November nineteenth. The public post came six days later. The fix: the hacked account is disabled, stolen tokens revoked, and every exposed secret rotated. Recovery codes also grew from six digits to ten letters and numbers. Outside experts are checking everything. Your job? Nothing to change. But watch for fake emails or calls about 1Password. Phishers love a headline. Want the full story? Read it now on itnewsainews dot xpigeon dot net. Stay safe, and see you next time!",
+ "article_path": "itnews/2026-11-26-0939-1password-breach.json"
+}
