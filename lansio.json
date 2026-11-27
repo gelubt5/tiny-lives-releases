@@ -1,0 +1,21 @@
+{
+ "title": "U.S. Chip Rules and Anti-Copying Defenses Threaten to Delay China's Next Big AI Models",
+ "yt_title": "China's Next Big AI Models Delayed? U.S. Chip Rules Hit Z.AI and Moonshot",
+ "yt_description": "Z.AI's 3-trillion-parameter GLM-5.5 missed its November target and Moonshot's Kimi K4 could slip to mid-2027, Reuters reports, as new U.S. compute licensing rules and stronger anti-distillation defenses squeeze China's top AI labs. But a Zhipu executive calls the leaks fake news. Speed bump or real slowdown?\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- Reuters: US chip curbs, distillation crackdown threaten Chinese AI model development (Nov 26, 2026)\n- Pasquale Pillitteri: GLM-5.5 delayed to 2027? A Zhipu executive denies it\n- IndexBox: US distillation curbs and chip rules delay China's Z.AI GLM-5.5\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#AI #China #Nvidia #ZAI #Kimi #TechNews",
+ "yt_tags": [
+  "AI news",
+  "China AI",
+  "Z.AI",
+  "Zhipu",
+  "GLM-5.5",
+  "Moonshot AI",
+  "Kimi K4",
+  "Nvidia",
+  "export controls",
+  "distillation",
+  "tech news"
+ ],
+ "caption": "China's top AI labs may be hitting a wall 🧱 Reuters reports Z.AI's huge GLM-5.5 missed its November launch and Moonshot's Kimi K4 could slip to mid-2027, as new U.S. compute rules and anti-distillation defenses bite. Zhipu, though, calls the leaks fake news 🤖\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n#AI #China #Nvidia #TechNews",
+ "script": "Welcome to IT News, AI News! Today: America's chip rules are hitting China's top AI labs right where it hurts. Reuters reports that Z dot A I, also known as Zhipu, has missed its own deadline for its next big model, G L M five point five. This thing is huge: about three trillion parameters. It was supposed to launch this month. It didn't. Sources say the launch could now slip to early twenty twenty-seven, or even later. The first problem? Computing power. A new U.S. rule took effect on November nineteenth. Renting overseas data center power above roughly seven hundred fifty H one hundred chips now needs a U.S. licence. Existing operators get ninety days. Shipping advanced chips to Malaysia, Singapore, Indonesia, Thailand and Brazil needs a licence too. And Nvidia reportedly told partners to stop shipping servers to four of those countries. The second problem is distillation: learning by copying the answers of a smarter model. Basically, peeking at the neighbor's test. In September, Anthropic said it saw nearly two hundred million Claude chats linked to suspected distillation campaigns, naming Chinese labs including Moonshot and Z dot A I. Now the big American labs are blocking that trick, and sources say the better blocks are part of why G L M five point five is late. Moonshot, the maker of Kimi, is feeling it too. It rents computing power, mostly abroad. Its usual six months between big releases could stretch to twelve months or more. Kimi K four might slip to around mid twenty twenty-seven. The Information reports Moonshot scrapped a hundred fifty million dollar deal for Nvidia Blackwell chips in Indonesia. Now it is reportedly shopping for computing power in Europe. But wait! A Zhipu executive posted that the leaks were fake news. Z dot A I has not announced any delay, and it just shipped G L M five point four on Monday. So, is China's cheap AI miracle running out of fuel, or is this just a speed bump? Twenty twenty-seven will tell. Read the full story on itnewsainews dot xpigeon dot net. See you in the next one!",
+ "article_path": "itnews/2026-11-27-1237-china-ai-curbs.json"
+}
