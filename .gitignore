@@ -1,0 +1,6 @@
+ep/*/nar/
+ep/*/out/
+ep/*/*.mp4
+ep/*/*.wav
+ep/*/list.txt
+__pycache__/
