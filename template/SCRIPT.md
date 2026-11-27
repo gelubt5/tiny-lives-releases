@@ -1,0 +1,2 @@
+# Albert's Kids — Albert Lexie (Unsung Stories ep.3)
+Sources: ABC News 2013 (Tue/Thu before sunrise, since 1981, $5 shine, extra dollar to hospital, >$200k); CHP.edu (all tips to Free Care Fund, ~$10,000/yr salary, "Albert's kids"); NPR/The Week 2018 ($202,000 by Dec 2013 retirement, purple shoeshine cart); Yahoo ($50 bill from a doctor at Christmas); Fox/WTAE (over a third of lifetime salary); My Modern Met ("I love my kids").
