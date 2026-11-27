@@ -13,8 +13,10 @@ The template/ folder is a complete working episode ("Albert's Kids") — copy it
   big number reveal → why/quote → callback twist ending. Short sentences, "..." for pauses.
 
 ## 2. Voice — ElevenLabs API (NOT the ElevenLabs MCP connector: that free account is out of credits)
-- Key: find it with conversation_search "ElevenLabs API key sk_a5d3" (Starter account). Save to /tmp/.el (chmod 600). NEVER commit or print it.
-- Check credits first: GET https://api.elevenlabs.io/v1/user/subscription (character_limit - character_count). If < 950, STOP and report it.
+- Two Starter account keys (never commit or print them). Find them with conversation_search:
+  key A: "ElevenLabs API key sk_a5d3" ; key B (backup, use after A is used up): "sk_99e8".
+- For each key in order A, B: GET https://api.elevenlabs.io/v1/user/subscription (character_limit - character_count).
+  Use the first key with >= 950 characters left; save it to /tmp/.el (chmod 600). If neither has 950, STOP and report it.
 - Voice "Clark" q6K6eJHlET6X3ASlVWD9, model eleven_multilingual_v2, /with-timestamps — template/voice/tts.py does it (edit the text) and writes words.json.
 - Then: `ffmpeg -y -i voice/voice.mp3 -ac 1 -ar 48000 voice/voice.wav` and make env.json (section 5).
 
