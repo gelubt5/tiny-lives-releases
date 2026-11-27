@@ -1,0 +1,20 @@
+{
+ "title": "Microsoft Warns: Hackers Run Cyberattacks on Autopilot With ARTEX AI",
+ "yt_title": "Microsoft Warns: Hackers Run Cyberattacks on Autopilot With ARTEX AI",
+ "yt_description": "Microsoft says state-backed hackers from China and North Korea, plus cybercriminals, are using ARTEX, an agentic AI framework that scouts, breaks in and steals data almost on its own. One group fired 151,000+ failed logins and an AI agent grabbed cloud secrets in five minutes. Here is how ARTEX works and how defenders can trick it.\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- The Decoder: https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/\n- BleepingComputer: https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/\n- Digit: https://www.digit.in/news/general/microsoft-says-chinese-hacking-group-attacked-over-100-organisations-using-agentic-ai-here-is-how.html\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#Cybersecurity #AI #Microsoft #AIAgents #TechNews",
+ "yt_tags": [
+  "ARTEX",
+  "Microsoft",
+  "cybersecurity",
+  "AI agents",
+  "AI hacking",
+  "Storm-0940",
+  "FBI",
+  "hackers",
+  "tech news",
+  "AI news"
+ ],
+ "caption": "Hackers now have a robot crew 🤖🔓 Microsoft warns that state-backed groups and cybercriminals are using ARTEX, an AI framework that runs cyberattacks almost on autopilot. One AI agent needed just five minutes to grab cloud secrets. The fix? Trick the bots with honeypots and fake wins.\n\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n\n#Cybersecurity #AI #Microsoft #TechNews",
+ "script": "Welcome to IT News, AI News! Today: hackers have hired a robot crew, and it never takes a coffee break. Microsoft just published a big warning about ARTEX, an AI framework that attackers use to run cyberattacks almost on autopilot. ARTEX showed up on GitHub in July as an open source penetration testing tool, the kind of thing security teams use to test their own defenses. Its creator pulled the code in October, but copies and a paid version called ARTEX PRO are still out there. According to Microsoft, state-backed groups from China and North Korea are using it, including Salt Typhoon and Onyx Sleet, plus plain old cybercriminals. Here is the trick. ARTEX has no brain of its own. It plugs into big AI models, and if one model hits an error or a limit, it simply swaps to another. Inside, it works like a tiny evil office. A goal agent splits the mission into steps, a planner keeps a map of the target, workers run the commands, and a reporter writes it all down. The workers drive classic hacking tools like Nmap, Sqlmap and Metasploit, and ARTEX usually runs two or three attack chains at the same time. One group, Storm zero nine forty, fired off more than one hundred fifty thousand failed logins, peaking at two thousand nine hundred guesses per minute. In one case, an AI agent needed just five minutes to find exposed GitHub credentials and pull data out of Azure Key Vault. Five minutes! I need longer to find my charger. Storm zero nine forty is also tied to the October supply chain attack on ConnectWise Cloud Backup, which opened a door into Microsoft three sixty five customer tenants. And it is not just Microsoft. This month the FBI sent out its own flash alert, warning that ARTEX makes chaining attack steps much faster. Researchers also counted more than sixteen hundred ARTEX control panels sitting openly on the internet in early November. So how do you fight a robot hacker? Microsoft says: trick it. Honeypots, tarpits, honeytokens, and fake wins that make the agent think it already succeeded. Plus the boring basics: strict access controls, rate limits, and automatic isolation of any device that looks compromised. AI is now on both sides of the firewall. Read the full story on itnewsainews dot xpigeon dot net, and see you in the next update!",
+ "article_path": "itnews/2026-11-27-1838-artex-ai-hackers.json"
+}
