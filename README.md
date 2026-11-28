@@ -6,6 +6,11 @@ coloured folk clothes; muted painted backgrounds, haze, film grain, vignette; co
 exclamations in Bangers; serif labels/maps in Cinzel). Narrator: casual, warm, jokey ("Da, mă..."),
 real documented facts only, no violence / politics / swearing / sexual content.
 
+## Topic rule (Gelu, 28.11.2026)
+No Orthodox/saint feast days (Moș Nicolae, Sf. Andrei, Sânziene, Bobotează...) and no other holidays
+(Halloween, Valentine's, mărțișor, Dragobete...). The ONLY holidays allowed: Easter, Christmas, New Year.
+Everything else = everyday food, objects and customs.
+
 ## Files
 - `engine/` ToonEngine core (Scene, Camera, render) — `silueta.py` the silhouette Figure
 - `ep2_sarmale.py` shared painting helpers + backgrounds (bg_home, bg_word, bg_palace, bg_market,
