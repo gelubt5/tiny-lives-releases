@@ -36,3 +36,17 @@ real documented facts only, no violence / politics / swearing / sexual content.
    Leo (Lansio business "Povestea Lucrurilor", id 25) picks it up within ~15 min and posts to YouTube.
 9. Append the episode to `episodes.json` "done" (and remove it from backlog) on this toolkit branch,
    also commit the new `ep/<slug>/episode.py` + `script.py` (not nar/ or out/).
+
+## English Short for every episode (since 28.11.2026)
+Every new episode also gets a ~50–55 s vertical English Short, published on the SAME channel (Leo business "povestea-lucrurilor").
+1. `shorts/<slug>/script.py`: `TITLE` (English, on screen), `SCENES = ("ep/<slug>/episode.py", [6–7 scene indexes])` (or `"ep2"` for ep2_sarmale.py),
+   `S` = 6–7 English narration blocks, total ≈ 700–780 characters (≈ 48 s), numbers/years written in words, last block = question for comments;
+   `T` = {Romanian on-screen string: English} for every pop/label shown in those scenes. See shorts/bradul as the example.
+2. `ELEVENLABS_API_KEY=... python3 tts_en.py shorts/<slug>` (voice George, ONE take)
+3. `python3 short.py shorts/<slug>` (re-renders the chosen scenes with English text) then `bash build_short.sh shorts/<slug>` -> shorts/<slug>/short.mp4
+   (1080x1920: blurred background, the 16:9 scene in the middle, English title on top, big captions below). Look at a few frames.
+4. Host: orphan branch `mcp-pl-short-<slug>` with only `pl-short-<slug>.mp4` (NO lansio.json, so Lansio's watcher ignores it), push,
+   then `mcp__leo__publish_video` once: business "povestea-lucrurilor", networks ["youtube"],
+   url https://raw.githubusercontent.com/gelubt5/tiny-lives-releases/mcp-pl-short-<slug>/pl-short-<slug>.mp4,
+   English catchy title with emoji + "#shorts", English description (facts, question, #shorts + hashtags), 6–9 tags.
+5. Add it to `episodes.json` "shorts_en".

@@ -24,25 +24,45 @@
  ],
  "backlog": [
   "Moș Nicolae și ghetuțele",
+  "Moș Crăciun / Santa Claus",
   "colindele",
+  "calendarul de Advent",
   "Plugușorul și Sorcova",
+  "pizza",
   "Capra / Ursul de Anul Nou",
+  "ciocolata",
   "Revelionul",
+  "cafeaua",
   "artificiile",
+  "ceaiul",
   "ouăle roșii",
+  "croissantul",
   "pasca",
+  "ketchupul",
   "mărțișorul",
+  "cartofii prăjiți",
   "ia românească",
+  "înghețata",
   "țuica",
+  "hamburgerul",
   "ciorba",
+  "sandvișul",
   "micii",
+  "popcornul",
   "plăcintele",
+  "guma de mestecat",
   "covrigii",
+  "blugii",
   "zacusca",
+  "periuța de dinți",
   "papanașii",
+  "artificiile de Anul Nou",
   "salata de boeuf",
+  "Halloween și dovleacul",
   "telemeaua",
+  "Ziua Îndrăgostiților",
   "braga",
+  "sushi",
   "cafeaua la noi",
   "sarea (salinele)",
   "pâinea",
@@ -62,5 +82,26 @@
   "ceasul",
   "bicicleta",
   "becul"
- ]
+ ],
+ "shorts_en": [
+  {
+   "slug": "sarmaua",
+   "title": "Where Do Cabbage Rolls Come From? 🥬 The True Story #shorts",
+   "date": "2026-11-28",
+   "youtube": "https://youtu.be/EhF74PwaJgU"
+  },
+  {
+   "slug": "cozonacul",
+   "title": "The Christmas Bread Named After a Doll 🍞 Cozonac #shorts",
+   "date": "2026-11-28",
+   "youtube": "https://youtu.be/i9NuF2TdIdw"
+  },
+  {
+   "slug": "bradul",
+   "title": "Who Invented the Christmas Tree? 🎄 The True Story #shorts",
+   "date": "2026-11-28",
+   "youtube": "https://youtu.be/LH5zI46KRik"
+  }
+ ],
+ "note": "Topics may be Romanian OR international (food, customs, objects from anywhere). Every episode also gets an English Short (shorts/<slug>, see README)."
 }
