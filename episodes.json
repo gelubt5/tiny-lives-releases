@@ -28,7 +28,7 @@
    "slug": "colindele",
    "title": "De unde vin colindele?",
    "date": "2026-11-28",
-   "youtube": "(in progress)"
+   "youtube": "https://youtu.be/aTsfH_-Byrk"
   },
   {
    "slug": "mos-craciun",
@@ -126,6 +126,12 @@
    "title": "Coca-Cola Didn't Invent Santa Claus 🎅 The True Story #shorts",
    "date": "2026-11-28",
    "youtube": "(FAILED: YouTube upload limit, Leo item 488 — needs republish)"
+  },
+  {
+   "slug": "colindele",
+   "title": "Romania's Christmas Carols Are UNESCO Heritage 🎶 The True Story #shorts",
+   "date": "2026-11-28",
+   "youtube": "NOT POSTED - YouTube daily upload limit (Leo item 487 failed); MP4 on branch mcp-pl-short-colindele"
   }
  ],
  "note": "Topics may be Romanian OR international (food, customs, objects from anywhere). Every episode also gets an English Short (shorts/<slug>, see README)."
