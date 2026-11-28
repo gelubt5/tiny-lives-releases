@@ -1,0 +1,21 @@
+{
+ "title": "SAP Confirms Cyberattack as Hackers Reportedly Alter Its Code on GitHub",
+ "yt_title": "SAP Hacked? Stolen Tokens and Altered Code on GitHub | IT News AI News",
+ "yt_description": "SAP has confirmed a security incident after Der Spiegel reported that attackers stole employee access tokens and used them to copy and change SAP source code on GitHub. SAP says it has found no sign that customer business data was accessed so far, but key questions remain open: which code was hit, and did any of it reach customers?\n\nFull news: https://itnewsainews.xpigeon.net\n\nSources:\n- SecurityWeek: https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/\n- TNW: https://thenextweb.com/news/sap-security-incident-github-breach\n- Security Affairs: https://securityaffairs.com/204121/data-breach/sap-security-incident-stolen-tokens-raise-supply-chain-concerns.html\n- Cyber Security News: https://cybersecuritynews.com/sap-security-incident/\n\nAnimated presenter, voice and visuals made with AI.\nMore tech & AI news: https://itnewsainews.xpigeon.net\n\n#SAP #CyberSecurity #GitHub #SupplyChain #TechNews",
+ "yt_tags": [
+  "SAP",
+  "SAP hack",
+  "cyberattack",
+  "GitHub",
+  "source code",
+  "access tokens",
+  "supply chain attack",
+  "Project Granite",
+  "cybersecurity news",
+  "tech news",
+  "IT News AI News"
+ ],
+ "caption": "SAP confirms a security incident after reports that hackers stole employee tokens and changed source code on GitHub. 🔐 SAP says no sign of customer data being accessed so far, but big questions remain about which code was hit. ⚠️\nOn YouTube: {youtube}\nFull news: https://itnewsainews.xpigeon.net\n#SAP #CyberSecurity #GitHub #TechNews",
+ "script": "Welcome to IT News, AI News! Today, a big name in business software has been hacked. German software giant SAP confirms it spotted suspicious activity and took steps to protect customers. SAP software runs the money, the stock and the payroll for a huge number of companies around the world. So this one matters. Germany's Der Spiegel broke the story, citing insiders and an internal staff message. According to that report, attackers stole employee access tokens. Think of them as digital keys that log you into tools. With those keys, the attackers allegedly got into SAP's code on GitHub. They copied code, and changed some of it. And here's the twist: sources told Spiegel the hackers may have used AI tools to help. Robots hacking robots? Not confirmed yet! Inside SAP, the incident even has a code name: Project Granite. Reports say SAP swapped its signing keys, limited access to GitHub, and paused some automated development work. Now, the good news. SAP says it has found no sign that anyone touched customer business data, so far. But there are big open questions. Which code was hit? Was it public or private? Did any changed code reach real customers? SAP has not answered those questions, and it has not confirmed the token theft or the code changes. Security sites warn this is a supply chain worry. If attackers can change the code, they could poison the software everyone installs. It's not SAP's first scare this year. Back in April, four SAP packages on npm were hijacked to spread password stealing malware. So, the lesson for every company: guard your tokens like house keys, and check your GitHub logs today! Want the full story? Read it now on itnewsainews dot xpigeon dot net. See you next time!",
+ "article_path": "itnews/2026-11-28-0940-sap-github-hack.json"
+}
