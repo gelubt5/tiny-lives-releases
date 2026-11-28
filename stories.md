@@ -2,3 +2,4 @@
 - 2026-11-27 Dale Schroeder — Iowa carpenter, two pairs of jeans, $3M sent 33 strangers to college (branch unsung-stories--the-carpenter-two-pairs-of-jeans)
 - 2026-11-27 Jadav "Molai" Payeng — Forest Man of India, 550 ha forest on a Brahmaputra sandbar (unsung-stories--the-man-who-planted-a-forest)
 - 2026-11-27 Albert Lexie — Pittsburgh shoe shiner, $202,000 in tips to Children's Hospital Free Care Fund (unsung-stories--alberts-kids-shoe-shiner)
+- 2026-11-28 Dashrath Manjhi — "Mountain Man" of Gehlaur, Bihar; 22 years with hammer & chisel, 110 m road through a ridge, 55 km → 15 km (unsung-stories--the-man-who-moved-a-mountain)
