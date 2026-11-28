@@ -17,13 +17,18 @@
    "title": "De unde vine bradul de Crăciun?",
    "date": "2026-11-28",
    "youtube": "https://youtu.be/C2ej2yo-lH0"
+  },
+  {
+   "slug": "mos-nicolae",
+   "title": "De unde vine Moș Nicolae?",
+   "date": "2026-11-28",
+   "youtube": "https://youtu.be/xAujX7hUOeM"
   }
  ],
  "avoid": [
   "mamaliga (already made by the Gicu Caras channel we took the style from)"
  ],
  "backlog": [
-  "Moș Nicolae și ghetuțele",
   "Moș Crăciun / Santa Claus",
   "colindele",
   "calendarul de Advent",
@@ -101,6 +106,12 @@
    "title": "Who Invented the Christmas Tree? 🎄 The True Story #shorts",
    "date": "2026-11-28",
    "youtube": "https://youtu.be/LH5zI46KRik"
+  },
+  {
+   "slug": "mos-nicolae",
+   "title": "Why Kids Leave Their Boots Out for Saint Nicholas 👢 The True Story #shorts",
+   "date": "2026-11-28",
+   "youtube": "https://youtu.be/3GTk9NYPHVk"
   }
  ],
  "note": "Topics may be Romanian OR international (food, customs, objects from anywhere). Every episode also gets an English Short (shorts/<slug>, see README)."

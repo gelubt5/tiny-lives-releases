@@ -559,6 +559,18 @@ class Figure:
             ctx.line_to(24, -18)
             ctx.close_path()
             self._fill(ctx, c)
+        elif h == "mitra":  # bishop's mitre
+            c = hc or _rgb("#d9cfb6")
+            ctx.move_to(-18, -20)
+            ctx.curve_to(-22, -44, -10, -66, 3, -74)
+            ctx.curve_to(16, -66, 28, -44, 24, -20)
+            ctx.close_path()
+            self._fill(ctx, c)
+            ctx.set_source_rgba(0.79, 0.63, 0.29, 0.9)
+            ctx.rectangle(-1, -70, 7, 50)
+            ctx.fill()
+            ctx.rectangle(-18, -28, 42, 6)
+            ctx.fill()
         elif h == "crown":
             c = hc or _rgb("#d4a63a")
             ctx.move_to(-16, -24)
