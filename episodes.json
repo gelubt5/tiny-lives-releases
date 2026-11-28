@@ -29,6 +29,12 @@
    "title": "De unde vin colindele?",
    "date": "2026-11-28",
    "youtube": "(in progress)"
+  },
+  {
+   "slug": "mos-craciun",
+   "title": "De unde vine Moș Crăciun?",
+   "date": "2026-11-28",
+   "youtube": "(queued via Leo)"
   }
  ],
  "avoid": [
@@ -36,7 +42,6 @@
   "NO Orthodox/saint feast days (Moș Nicolae, Sf. Andrei, Sânziene, Bobotează, etc.) and no other holidays (Halloween, Valentine's, mărțișor, Dragobete...). The ONLY holidays allowed are Easter (Paște), Christmas (Crăciun) and New Year (Anul Nou) — Gelu, 28.11.2026"
  ],
  "backlog": [
-  "Moș Crăciun / Santa Claus",
   "calendarul de Advent",
   "Plugușorul și Sorcova",
   "pizza",
@@ -115,6 +120,12 @@
    "title": "Why Kids Leave Their Boots Out for Saint Nicholas 👢 The True Story #shorts",
    "date": "2026-11-28",
    "youtube": "https://youtu.be/3GTk9NYPHVk"
+  },
+  {
+   "slug": "mos-craciun",
+   "title": "Coca-Cola Didn't Invent Santa Claus 🎅 The True Story #shorts",
+   "date": "2026-11-28",
+   "youtube": "(FAILED: YouTube upload limit, Leo item 488 — needs republish)"
   }
  ],
  "note": "Topics may be Romanian OR international (food, customs, objects from anywhere). Every episode also gets an English Short (shorts/<slug>, see README)."
