@@ -23,6 +23,12 @@
    "title": "De unde vine Moș Nicolae?",
    "date": "2026-11-28",
    "youtube": "https://youtu.be/xAujX7hUOeM"
+  },
+  {
+   "slug": "colindele",
+   "title": "De unde vin colindele?",
+   "date": "2026-11-28",
+   "youtube": "(in progress)"
   }
  ],
  "avoid": [
@@ -31,7 +37,6 @@
  ],
  "backlog": [
   "Moș Crăciun / Santa Claus",
-  "colindele",
   "calendarul de Advent",
   "Plugușorul și Sorcova",
   "pizza",
